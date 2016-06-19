@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <kenzo>
+            <Filename>Cardinal-AOSP-kenzo-2.1-UNOFFICIAL-20160618</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Cardinal-AOSP build">https://www.androidfilehost.com/?fid=24591000424940807</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Cardinal-AOSP changelogs">https://github.com/Cardinal-AOSP/misc/blob/crd6.0/Changelogs/Kenzo/Changelog.txt</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest OpenGapps">https://OpenGapps.org</GappsUrl>
+            <OPUrl
+                id="xda"
+                title="XDA Forums"
+                description="Visit Cardinal-AOSP kenzo thread on XDA Forums">https://forums.xda-developers.com/redmi-note-3</OPUrl>
+        </kenzo>
+        </Stable>
+</SlimOTA>

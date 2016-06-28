@@ -44,11 +44,11 @@
                 description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
         </condor>
         <onyx>
-            <Filename>Cardinal-AOSP-2.3-onyx-OFFICIAL-20160628</Filename>
+            <Filename>Cardinal-AOSP-2.3-onyx-UNOFFICIAL-20160629</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Cardinal-AOSP latest build">https://www.androidfilehost.com/?fid=24591000424940807</RomUrl>
+                description="Download Cardinal-AOSP latest build">https://www.androidfilehost.com/?fid=weeeeeeeeeeee</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"

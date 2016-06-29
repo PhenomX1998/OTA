@@ -47,8 +47,8 @@
             <Filename>Cardinal-AOSP-2.3-onyx-OFFICIAL-20160629</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download Cardinal-AOSP latest build">https://s.basketbuild.com/filedl/devs?dev=Cardinal-AOSP&dl=Cardinal-AOSP/onyx/Cardinal-AOSP-2.3-onyx-OFFICIAL-20160629.zip﻿</RomUrl>
+                title="ROM
+                description="Download Cardinal-AOSP latest build">https://s.basketbuild.com/filedl/devs?dev=Cardinal-AOSP&dl=Cardinal-AOSP/onyx/Cardinal-AOSP-2.3-onyx-OFFICIAL-20160629.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"

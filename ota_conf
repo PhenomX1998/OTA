@@ -1,10 +1,9 @@
 OTA url for all devices
 ota_url=https://raw.githubusercontent.com/Cardinal-Devices/OTA/crd6.0/CardinalOTA.xml
 release_type=Stable
-device_name=ro.product.device
+device_name=ro.cardinal.device
  
-#example ro.cardinal.version=Cardinal-AOSP-Device-2.1-20160619-1258
-version_source=ro.cardinal.version
+version_source=cardinal.ota.version
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd

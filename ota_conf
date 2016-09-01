@@ -5,5 +5,5 @@ device_name=ro.cardinal.device
  
 version_source=cardinal.ota.version
 version_delimiter=-
-version_position=3
+version_position=5
 version_format=yyyyMMdd

@@ -2,7 +2,7 @@
 <CardinalOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
         <kenzo>
-            <Filename>Cardinal-AOSP-3.0-20160616</Filename>
+            <Filename>Cardinal-AOSP-kenzo-3.0-EXP-20160831</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CardinalOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>Cardinal-AOSP-kenzo-2.1-UNOFFICIAL-20160618</Filename>
+            <Filename>Cardinal-AOSP-3.0-kenzo-EXP-20160831</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -67,4 +67,4 @@
                 description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
         </onyx>
         </Stable>
-</CardinalOTA>
+</SlimOTA>

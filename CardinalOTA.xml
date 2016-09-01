@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>Cardinal-AOSP-3.0-kenzo-EXP-20160901</Filename>
+            <Filename>CardinalAOSP-3.0-kenzo-EXP-20160901</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"

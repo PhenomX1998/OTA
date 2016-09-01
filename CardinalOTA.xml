@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CardinalOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
+<Stable>
         <kenzo>
-            <Filename>Cardinal-AOSP-3-0-kenzo-EXP-20160901</Filename>
+            <Filename>Cardinal-AOSP-3.0-20160616</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download Cardinal-AOSP builds">https://www.androidfilehost.com/?fid=24659325368664325</RomUrl>
+                title="ROM"
+                description="Download Turbo ROM builds">https://basketbuild.com/filedl/devs?dev=lupedha&amp;dl=lupedha/TurboROM/Moto%20E%202015%20(Otus)/Turbo-otus-4.0-OFFICIAL-20160616.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Download Cardinal-AOSP changelogs">https://raw.githubusercontent.com/Citrus-Seeds/OTA/ctr6.0/Changelog.txt</ChangelogUrl>
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/mm/CHANGELOG.mkdn</ChangelogUrl>
             <GappsUrl
                 id="gapps"
-                title="Gapps"
-                description="Download latest Open Gapps">http://opengapps.org</GappsUrl>
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit Cardinal-AOSP condor thread">http://forum.xda-developers.com/redmi-note-3</XDAUrl>
-	    </kenzo>
+                description="Visit the Turbo ROM Otus thread">http://forum.xda-developers.com/moto-e-2015/orig-development/rom-turbo-rom-layer-dui-t3394207</XDAUrl>
+	</kenzo>
     </Stable>
 </CardinalOTA>

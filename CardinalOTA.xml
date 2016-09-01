@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CardinalOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <kenzo>
-            <Filename>CardinalAOSP-3.0-condor-EXP-20160901</Filename>
+        <condor>
+            <Filename>Cardinal-AOSP-3.0-condor-EXP-20160901</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -19,6 +19,6 @@
                 id="xda"
                 title="XDA"
                 description="Visit Cardinal-AOSP condor thread">http://forum.xda-developers.com/redmi-note-3</XDAUrl>
-	    </kenzo>
+	    </condor>
     </Stable>
 </CardinalOTA>

@@ -2,69 +2,23 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>Cardinal-AOSP-3.0-kenzo-EXP-20160831</Filename>
+            <Filename>Cardinal-AOSP-3.0-kenzo-EXP-20160901.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Cardinal-AOSP build">https://www.androidfilehost.com/?fid=24591000424940807</RomUrl>
+                description="Download Cardinal-AOSP builds">https://www.androidfilehost.com/?fid=24659325368664325</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Cardinal-AOSP changelogs">https://github.com/Cardinal-AOSP/misc/blob/crd6.0/Changelogs/Kenzo/Changelog.txt</ChangelogUrl>
+                description="Download Cardinal-AOSP changelogs">https://raw.githubusercontent.com/Citrus-Seeds/OTA/ctr6.0/Changelog.txt</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="Download latest OpenGapps">https://OpenGapps.org</GappsUrl>
-            <OPUrl
+                description="Download latest Open Gapps">http://opengapps.org</GappsUrl>
+            <XDAUrl
                 id="xda"
-                title="XDA Forums"
-                description="Visit Cardinal-AOSP kenzo thread on XDA Forums">https://forums.xda-developers.com/redmi-note-3</OPUrl>
-        </kenzo>
-        <condor>
-            <Filename>Cardinal-AOSP-2.3-condor-OFFICIAL-20160627</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download Cardinal-AOSP latest build">https://basketbuild.com/filedl/devs?dev=Cardinal-AOSP&dl=Cardinal-AOSP/Motorola/condor/Cardinal-AOSP-2.3-condor-OFFICIAL-20160627.zip</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Cardinal-AOSP changelogs">https://github.com/Cardinal-AOSP/misc/blob/crd6.0/Changelogs/condor/Changelog.txt</ChangelogUrl>
-            <OPUrl
-                id="xda"
-                title="XDA Forums"
-                description="Visit Cardinal-AOSP Condor thread on XDA Forums">https://forums.xda-developers.com/moto-e</OPUrl>
-            <GappsUrl
-                id="gapps"
-                title="Gapps"
-                description="Download latest OpenGapps">https://OpenGapps.org</GappsUrl>
-           <BanksGappsUrl
-                id="banks_gapps"
-                title="BaNkS Dynamic GApps"
-                description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
-        </condor>
-        <onyx>
-            <Filename>Cardinal-AOSP-2.5-onyx-OFFICIAL-20160805</Filename>
-            <RomUrl
-                id="rom"
-                title="ROM
-                description="Download Cardinal-AOSP latest build">https://s.basketbuild.com/filedl/devs?dev=Cardinal-AOSP&dl=Cardinal-AOSP/onyx/Cardinal-AOSP-2.5-onyx-OFFICIAL-20160805.zip</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Cardinal-AOSP changelogs">https://github.com/Cardinal-AOSP/misc/blob/crd6.0/Changelogs/onyx/Changelog.txt</ChangelogUrl>
-            <OPUrl
-                id="xda"
-                title="XDA Forums"
-                description="Visit Cardinal-AOSP Condor thread on XDA Forums">https://forums.xda-developers.com/oneplus-x</OPUrl>
-            <GappsUrl
-                id="gapps"
-                title="Gapps"
-                description="Download latest OpenGapps">https://OpenGapps.org</GappsUrl>
-           <BanksGappsUrl
-                id="banks_gapps"
-                title="BaNkS Dynamic GApps"
-                description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
-        </onyx>
-        </Stable>
+                title="XDA"
+                description="Visit Cardinal-AOSP condor thread">http://forum.xda-developers.com/redmi-note-3</XDAUrl>
+	    </kenzo>
+    </Stable>
 </SlimOTA>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<CardinalOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
             <Filename>CardinalAOSP-3.0-kenzo-EXP-20160901</Filename>
@@ -21,4 +21,4 @@
                 description="Visit Cardinal-AOSP condor thread">http://forum.xda-developers.com/redmi-note-3</XDAUrl>
 	    </kenzo>
     </Stable>
-</SlimOTA>
+</CardinalOTA>

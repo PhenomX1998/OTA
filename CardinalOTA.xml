@@ -20,5 +20,28 @@
                 title="XDA"
                 description="Visit the Turbo ROM Otus thread">http://forum.xda-developers.com/moto-e-2015/orig-development/rom-turbo-rom-layer-dui-t3394207</XDAUrl>
 	</kenzo>
+	<oneplus3>
+	    <Filename>Cardinal-AOSP-3.0-oneplus3-OFFICIAL-20160827</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Cardinal-AOSP Latest Builds">https://www.androidfilehost.com/?w=files&flid=103090</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/Cardinal-AOSP/Documentation/blob/crd6.0/Changelog.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <GappsUr2
+                id="opengapps"
+                title="OpenGApps"
+                description="Download the latest Open GApps">OpenGapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the OFFICIAL XDA thread">http://forum.xda-developers.com/oneplus-3/development/rom-cardinal-aosp-t3449504</XDAUrl>
+	</oneplus3>
     </Stable>
 </CardinalOTA>
